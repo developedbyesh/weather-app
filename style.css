@@ -46,3 +46,12 @@ button {
 button:hover {
   background-color: #0056b3;
 }
+
+#weatherInfo {
+  margin-top: 20px;
+  display: none;
+}
+
+#weatherInfo p {
+  font-size: 18px;
+}
